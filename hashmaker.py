@@ -1,3 +1,4 @@
+# Author: Øyvind Jensen
 import hashlib
 
 with open('passwords.txt', 'r') as pwfile, open('hashedpws.txt', 'w') as outfile:
