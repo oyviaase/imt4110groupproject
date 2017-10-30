@@ -1,4 +1,4 @@
-﻿bookstore:$1$uC269iT4$ue87C171WYkx8LXtMckF20
+bookstore:$1$uC269iT4$ue87C171WYkx8LXtMckF20
 accountant:$1$QWatIIw9$ZUCcWY9NZX24QicC4KjPu/
 bank:$1$EViX2tJ8$5QUIwie3/9HD/Zf/fhR.q.
 function:$1$r14BhaCg$htE2EAMK3XyUAYNPK8Wl./

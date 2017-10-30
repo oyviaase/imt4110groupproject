@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bookstore:$1$uC269iT4$ue87C171WYkx8LXtMckF20
 accountant:$1$QWatIIw9$ZUCcWY9NZX24QicC4KjPu/
 bank:$1$EViX2tJ8$5QUIwie3/9HD/Zf/fhR.q.
@@ -8,3 +9,6 @@ laptop:$1$2Q88Y1kp$zg6yUQcGGeMdTtN6ISB8E0
 headset:$1$8w.Gkheq$dD3wR35Vk3ayYht3MW.uT0
 table:$1$bI.ZPqPO$bNnZiJCVPdtpa7bV/Dc3F.
 chair:$1$Tu9UCl.l$S3Z3LIGBu4LNCRMwbT9Vb1
+=======
+kek:$1$ivf.yR3S$RQUlYdpEUu98iZYjQ5Ljw1
+>>>>>>> 3f96ef46eaf681e47d2c2aa88f04b336008286fc
