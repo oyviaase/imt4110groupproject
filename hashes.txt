@@ -1,0 +1,10 @@
+bookstore:$1$uC269iT4$ue87C171WYkx8LXtMckF20
+accountant:$1$QWatIIw9$ZUCcWY9NZX24QicC4KjPu/
+bank:$1$EViX2tJ8$5QUIwie3/9HD/Zf/fhR.q.
+function:$1$r14BhaCg$htE2EAMK3XyUAYNPK8Wl./
+keyboard:$1$hOycxZZ8$ohpF3QzZV3OktESClpJyh/
+notepad:$1$4sOLZ4pm$pWsmLf2zk8mje/lpfQiW4.
+laptop:$1$2Q88Y1kp$zg6yUQcGGeMdTtN6ISB8E0
+headset:$1$8w.Gkheq$dD3wR35Vk3ayYht3MW.uT0
+table:$1$bI.ZPqPO$bNnZiJCVPdtpa7bV/Dc3F.
+chair:$1$Tu9UCl.l$S3Z3LIGBu4LNCRMwbT9Vb1

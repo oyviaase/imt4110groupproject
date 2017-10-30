@@ -1,10 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 # Author: Øyvind Jensen
-import hashlib
+from passlib.hash import md5_crypt
 
 with open('passwords.txt', 'r') as pwfile, open('hashedpws.txt', 'w') as outfile:
 	for password in pwfile:
-		pwhash = hashlib.md5(password)
-		pwhash = pwhash.hexdigest()
+		pwhash = md5_crypt.encrypt(password)
 		#pwhash.strip()
 		password = password + ':' + pwhash
 		password = password.replace('\n', '')
