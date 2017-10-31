@@ -5,6 +5,8 @@ from passlib.hash import md5_crypt
 
 with open('passwords.txt', 'r') as pwfile, open('hashedpws.txt', 'w') as outfile:
 	for password in pwfile:
+		password = password.replace('\n', '')
+		password = password.strip()
 		pwhash = md5_crypt.encrypt(password)
 		#pwhash.strip()
 		password = password + ':' + pwhash

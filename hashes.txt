@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-bookstore:$1$uC269iT4$ue87C171WYkx8LXtMckF20
-accountant:$1$QWatIIw9$ZUCcWY9NZX24QicC4KjPu/
-bank:$1$EViX2tJ8$5QUIwie3/9HD/Zf/fhR.q.
-function:$1$r14BhaCg$htE2EAMK3XyUAYNPK8Wl./
-keyboard:$1$hOycxZZ8$ohpF3QzZV3OktESClpJyh/
-notepad:$1$4sOLZ4pm$pWsmLf2zk8mje/lpfQiW4.
-laptop:$1$2Q88Y1kp$zg6yUQcGGeMdTtN6ISB8E0
-headset:$1$8w.Gkheq$dD3wR35Vk3ayYht3MW.uT0
-table:$1$bI.ZPqPO$bNnZiJCVPdtpa7bV/Dc3F.
-chair:$1$Tu9UCl.l$S3Z3LIGBu4LNCRMwbT9Vb1
-=======
-kek:$1$ivf.yR3S$RQUlYdpEUu98iZYjQ5Ljw1
->>>>>>> 3f96ef46eaf681e47d2c2aa88f04b336008286fc
+b00kst0r3:$1$zv3JvMrh$TpaVQyEuh4pdYf6JzsMmr/
+4cc0un74n7:$1$m5L9Ymxe$E54qxZFUQ3umeb5MLxjej.
+b4nk:$1$IdlbzYX1$dQSqraY2IZjXAa0Achr64/
+funct10n:$1$ZQ33qd5h$308L7X.oLemJIHrOouoY51
+k3yb04rd:$1$D5tcBpyG$UePSr7uqq474.qkxWpwud.
+n073p4d:$1$qJt0mR05$Olp.UggQJWBQjToDzdmH7/
+l4p70p:$1$t5Mk5f/b$PACLKI/YCQH/rIgffxefw.
+h34d537:$1$Y/.wLQvn$vxXJBnnFiJPj8grg273wL1
+t4bl3:$1$ZJwhUZRy$dYEAF1xKvqB8renwlZ2b11
+ch41r:$1$3jaf2QNM$KaFdqfrR6gcTQ.jGeodyo1
