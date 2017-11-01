@@ -3,7 +3,7 @@
 # Author: Øyvind Jensen
 from passlib.hash import md5_crypt
 
-with open('passwords.txt', 'r') as pwfile, open('hashedpws.txt', 'w') as outfile:
+with open('passwords.txt', 'r') as pwfile, open('hashedpws.txt', 'w') as outfile, open('hashes.txt', 'w') as hashfile:
 	for password in pwfile:
 		password = password.replace('\n', '')
 		password = password.strip()
@@ -14,3 +14,6 @@ with open('passwords.txt', 'r') as pwfile, open('hashedpws.txt', 'w') as outfile
 		print password
 		outfile.write(password)
 		outfile.write('\n')
+		pwhash = pwhash.replace('\n', '')
+		hashfile.write(pwhash)
+		hashfile.write('\n')
