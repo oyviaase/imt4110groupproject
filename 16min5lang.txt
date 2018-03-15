@@ -1,0 +1,5 @@
+bank:$1$xrWMJCRC$C9vSSAt2ZT.V7m8k9AiZs0
+book:$1$/NVkPt4X$JVVpfwtilhfM0HPJ/3lgh.
+claw:$1$Eb2EhH8J$/jb6q8/P9mKz1nb3UR3171
+case:$1$E7DVEOn2$QRCaGXfF10rktOQY7rua2.
+base:$1$mrEKucpb$S7822Ht3Zapv6ydKQmPfT/

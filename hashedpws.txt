@@ -1,3 +1,5 @@
-computer:6accefe4a7ff62bd935f25a053c5fd3c
-test:d8e8fca2dc0f896fd7cb4cb0031ba249
-£@$£@$@£€@£@£:08549033393ecdedd27c938565466f5c
+fizzy:$1$f0m1b9kE$rkuTmTAtQ1Fl3gTJ0ENAs0
+pizza:$1$naQpGppZ$dfNMhdg5Y9Q.5AeSM/lq1/
+kebab:$1$NNId3NkA$G8azmb4DILdmbLOsDXkus0
+halal:$1$SV085nub$KmsOy9ZBDB.bvXXqhyheY1
+quick:$1$dq6u0W7D$BFCqcREJLCWinS7xqwpRv/
